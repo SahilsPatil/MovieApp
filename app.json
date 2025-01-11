@@ -7,7 +7,11 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-
+    "splash": {
+      "image": "./assets/netflix-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#141414"
+    },
     "ios": {
       "supportsTablet": true
     },
@@ -15,11 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.daviel.fawzi.workspace"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": ["expo-font"]
+    "plugins": ["expo-font"],
+    "extra": {
+      "eas": {
+        "projectId": "6b2c2714-1334-44f6-9e44-079b22442fd3"
+      }
+    }
   }
 }
