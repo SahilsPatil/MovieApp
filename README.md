@@ -58,9 +58,9 @@ To build the APK:
 
 ## Screenshots
 
-| Home Screen       | Search Screen      | Details Screen      |
-|-------------------|--------------------|---------------------|
-| ![Home](path-to-screenshot) | ![Search](path-to-screenshot) | ![Details](path-to-screenshot) |
+| Home Screen | Search Screen | Details Screen |
+|-------------|---------------|----------------|
+| ![Home](https://github.com/user-attachments/assets/2405d677-8b06-4341-80e4-b7486b6ae292) | ![Search](https://github.com/user-attachments/assets/ba233e8c-a11d-42fc-8738-b26e84917ab1) | ![Details](https://github.com/user-attachments/assets/e4fb5a6e-649f-4ff7-9e14-c8f603e66ffe) |
 
 ---
 
